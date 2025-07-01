@@ -11,7 +11,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "elecron": "^0.0.1-security",
-    "electron": "^15.0.0",
+    "electron": "^28.3.2",
     "express": "*",
     "log-timestamp": "^0.3.0",
     "network-speed": "*",
